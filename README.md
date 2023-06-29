@@ -8,9 +8,12 @@
         A Java and Angular developer from Taiwan.
     </center>
 </h3>
-1. I currently learning minicube, kubernetes with GCP and using DDD design pattern to build a spring boot project.</br>
-2. I sometimes write my learning note on my [blog](https://mister33221.github.io/)</br>
-3. Reach me on [LinkedIn](https://www.linkedin.com/in/mister33221/)</br>
+1. I currently learning minicube, kubernetes with GCP and using DDD design pattern to build a spring boot project.
+
+2. I sometimes write my learning note on my [blog](https://mister33221.github.io/)
+
+3. Reach me on  [LinkedIn](https://www.linkedin.com/in/mister33221/)</br>
+
 </br>
 </br>
 </br>
