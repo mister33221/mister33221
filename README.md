@@ -1,6 +1,6 @@
 # Hi there, I'm Kai 👋
 
-## I'm a Developer, and Teacher!
+## I'm a Java and Angular Developer
 
 - 🔭 I’m currently working on a Bank company project
 - 🌱 I’m currently learning everything, like minicube, kubernetes on gcp and trying to build a spring cloud project with DDD design pattern🤣
