@@ -3,7 +3,7 @@
 ## I'm a Java and Angular Developer
 
 - 🔭 I’m currently working on a Bank company project
-- 🌱 I’m currently learning everything, from minicube and kubernetes on GCP to building a Spring Cloud project with DDD design pattern 🤯
+- 🌱 I’m currently learning everything, like minicube, kubernetes on GCP and build a Spring Cloud project with DDD design pattern 🤯
 - 👯 I’m looking to collaborate with other developers to build a fun side project 🤝
 - 🥅 2023 Goals: Get the AZURE certificate and a diving license 🌊
 - 📝 I will note my learning process on my [blog](https://mister33221.github.io/) 
