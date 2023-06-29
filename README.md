@@ -11,6 +11,9 @@
 1. I currently learning minicube, kubernetes with GCP and using DDD design pattern to build a spring boot project.</br>
 2. I sometimes write my learning note on my [blog](https://mister33221.github.io/)</br>
 3. Reach me on [LinkedIn](https://www.linkedin.com/in/mister33221/)</br>
+</br>
+</br>
+</br>
 
 Languages and Tools:
 [![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white)](https://www.java.com/)
