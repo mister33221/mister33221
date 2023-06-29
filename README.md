@@ -12,7 +12,6 @@ diving license
 ### Languages and Tools:
 
 [<img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />][vscode]
-[<img align="left" alt="Postman" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" />][postman]
 [<img align="left" alt="HTML5" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />][html]
 [<img align="left" alt="CSS3" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />][css]
 [<img align="left" alt="JavaScript" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />][javascript]
@@ -23,8 +22,6 @@ diving license
 [<img align="left" alt="TypeScript" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />][typeScript]
 [<img align="left" alt="Java" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />][java]
 [<img align="left" alt="Spring" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" />][spring]
-[<img align="left" alt="Spring Boot" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/springboot/springboot-original.svg" />][spring boot]
-[<img align="left" alt="Spring Cloud" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/springcloud/springcloud-original.svg" />][spring cloud]
 [<img align="left" alt="Maven" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/maven/maven-original.svg" />][maven]
 [<img align="left" alt="Gradle" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gradle/gradle-plain.svg" />][gradle]
 [<img align="left" alt="Docker" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" />][dockeer]
@@ -37,7 +34,6 @@ diving license
 ---
 
 [vscode]: https://code.visualstudio.com/
-[postman]: https://www.postman.com/
 [html]: https://developer.mozilla.org/en-US/docs/Web/HTML
 [css]: https://developer.mozilla.org/en-US/docs/Web/CSS
 [javascript]: https://developer.mozilla.org/en-US/docs/Web/JavaScript
@@ -48,8 +44,6 @@ diving license
 [typeScript]: https://www.typescriptlang.org/
 [java]: https://www.java.com/
 [spring]: https://spring.io/
-[spring boot]: https://spring.io/projects/spring-boot
-[spring cloud]: https://spring.io/projects/spring-cloud
 [maven]: https://maven.apache.org/
 [gradle]: https://gradle.org/
 [dockeer]: https://www.docker.com/
