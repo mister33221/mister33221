@@ -17,9 +17,10 @@
 
 </br>
 </br>
-</br>
 
-Languages and Tools:
+Languages and Tools: </br>
+
+
 [![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white)](https://www.java.com/)
 [![Angular](https://img.shields.io/badge/-Angular-DD0031?style=flat-square&logo=angular&logoColor=white)](https://angular.io/)
 [![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
