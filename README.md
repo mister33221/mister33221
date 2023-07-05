@@ -5,7 +5,7 @@
 - 🔭 I’m currently working on a Bank company project
 - 🌱 I’m currently learning everything, like minicube, kubernetes on GCP and build a Spring Cloud project with DDD design pattern 🤯
 - 👯 I’m looking to collaborate with other developers to build a fun side project 🤝
-- 🥅 2023 Goals: Get the AZURE certificate and a diving license 🌊
+- 🥅 2023 Goals: Get the diving license 🌊 and go to take the APCS exam
 - 📝 I will note my learning process on my [blog](https://mister33221.github.io/) 
 - ⚡ Fun fact: I love to play guitar and listen to post-rock music while coding 🎸🎵
 - 💼 Reach me at [LinkedIn](https://www.linkedin.com/in/mister33221/)
